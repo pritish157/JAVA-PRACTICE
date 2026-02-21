@@ -1,4 +1,4 @@
-
+package basic;
 
 public class MyRealNo {
 public static void main(String[]args) {

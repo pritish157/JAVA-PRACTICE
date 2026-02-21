@@ -1,4 +1,4 @@
-
+package basic;
 public class MyTypeCasting {
 
 	public static void main(String[] args) {

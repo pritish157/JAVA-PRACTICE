@@ -3,7 +3,7 @@ package String;
 public class Mystring3 {
 public static void main(String[] args) {
 	String s1 = new String("Rooman");
-	String s2 = new String("rooman");
+	String s2 = new String("Rooman");
 	String s3 = "Rooman";
 	String s4 = "Rooman";
 	System.out.println(s1==s2);
